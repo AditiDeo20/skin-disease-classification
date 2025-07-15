@@ -12,6 +12,13 @@ Diagnosing skin diseases is challenging due to overlapping symptoms and evolving
 - Pityriasis rosea
 - Chronic dermatitis
 
+## Dataset
+Due to file size and licensing, the dataset is not included in this repository.
+You can download it from:
+Skin Disorder Dataset – Download Link
+
+
+
 ## 🎯 Objectives
 
 - Analyze and preprocess medical data
