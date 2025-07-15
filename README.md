@@ -15,7 +15,7 @@ Diagnosing skin diseases is challenging due to overlapping symptoms and evolving
 ## Dataset
 Due to file size and licensing, the dataset is not included in this repository.
 You can download it from:
-Skin Disorder Dataset – Download Link
+[Skin Disorder Dataset – Download Link](https://d3ilbtxij3aepc.cloudfront.net/projects/CDS-Capstone-Projects/PRCP-1028-Skin-Disorder-Prediction-20220512T101734Z-001.zip)
 
 
 
